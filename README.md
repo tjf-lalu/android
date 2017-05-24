@@ -1,7 +1,7 @@
 # android
 BIG UPDATE
 https://blog.jetbrains.com/kotlin/2017/05/kotlin-on-android-now-official/
- 5/17/2017, Kotlin now official language for Android Studio :(
+ 5/17/2017, Kotlin now official language for Android Studio :) I have not learn Kotlin yet, hope it will be fun
 I have been learning java for over 1 year when this come, Kotlin is based on Java so these 2 languages will be developed parallely, hope so.
 I will have a new branch, android-kotlin, for android apps written in kotlin, while still updating this branch as my old, obsolete project, huhu... Or maybe mix between them!
 
