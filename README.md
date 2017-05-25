@@ -1,5 +1,6 @@
 # android
 I dont know to fix if you cannot gradle my files. It takes forever for me to gradle people's project, maybe different Android Studio version????
+
 BIG UPDATE
 https://blog.jetbrains.com/kotlin/2017/05/kotlin-on-android-now-official/
  5/17/2017, Kotlin now official language for Android Studio :) I have not learn Kotlin yet, hope it will be fun
